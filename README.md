@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="./src/assets/logo.svg" alt="License MIT">
+  </a>
+</p>
 
-## Getting Started
+<p align="center">Desafio feito no curso Ignite da Rocketseat</p>
 
-First, run the development server:
+<br />
+<br />
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Getting started
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Run
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+> `yarn` or `npm install` **for install the dependencies**.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+> `yarn dev` or `npm run dev`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Features
 
-## Learn More
+[//]: # "Add the features of your project here:"
 
-To learn more about Next.js, take a look at the following resources:
+Features used in the Project.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **<a href="https://nextjs.org/" target="_blank">NextJS</a>**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **<a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>**
 
-## Deploy on Vercel
+- **<a href="https://phosphoricons.com/" target="_blank">Phosphor Icons</a>**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **<a href="https://stitches.dev/" target="_blank">Stitches</a>**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **<a href="https://www.embla-carousel.com/get-started/react/" target="_blank">Embla Carousel React</a>**
+
+You can see more dependencies in `package.json` file.
+
+### - LICENSE
+
+This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT" target="_blank">LICENSE</a> page for details.
